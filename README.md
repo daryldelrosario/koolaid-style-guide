@@ -8,8 +8,10 @@ Peer Review for Website Style Guide Project via Codecademy
 ## Solution Explained
 * used a display inline-block and margin to provide space and controlled dimensions   
 
-* HTML Solution
-<kbd><img src="./img/html-solution.png" alt="screenshot of html solution"></kbd>   
+* HTML Solution   
 
-* CSS Solution
-<kbd><img src="./img/css-solution.png" alt="screenshot of css solution"></kbd>
+<kbd><img src="./img/html-solution.png" alt="screenshot of html solution" style="height: 200px"></kbd>   
+
+* CSS Solution   
+
+<kbd><img src="./img/css-solution.png" alt="screenshot of css solution"style="height: 200px"></kbd>
