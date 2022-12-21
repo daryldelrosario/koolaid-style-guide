@@ -1,0 +1,99 @@
+* {
+  text-align: center;
+}
+
+html {
+  margin: 50px;
+  font-family: 'Source Serif Pro', serif;
+}
+
+header h2 {
+  padding-bottom: 70px;
+}
+
+ul.palette {
+  list-style: none;
+  text-align: center;
+  margin: 0, auto;
+  width: 40%;
+  margin: 0px auto;
+  padding: 50px;
+  margin-bottom: 100px;
+
+}
+
+ul.fonttable {
+  list-style: none;
+  text-align: center;
+  margin: 0, auto;
+  width: 40%;
+  height: 40%;
+  margin: 0px auto;
+  padding: 50px;
+  margin-bottom: 100px;
+  border: 1px solid;
+  }
+
+.palette li {
+  display: inline-block;
+  border: 2px solid black;
+  border-radius: 10px;
+  text-align: center;
+  margin: 10px;
+  width: 75px;
+  padding: 50px;
+}
+
+.fonttable li {
+  display: table-cell;
+  border: 2px solid black;
+  border-radius: 10px;
+  text-align: center;
+  padding: 40px;
+  border-spacing: 50px;
+  border-collapse: separate;
+  background-color: brown;
+}
+
+.palette #cavendish {
+  background-color: #FFE01B;
+}
+
+.palette #peppercorn {
+  background-color: #241C15;
+  color: white;
+}
+
+.palette #oyster {
+  background-color: #403B3B;
+  color: white;
+}
+
+.palette #tuna {
+  background-color: #8C8C8C;
+}
+
+.palette #portobello {
+  background-color: #B7A9A1;
+}
+
+.palette #basmati {
+  background-color: #DBD9D2;
+}
+
+header a {
+  text-decoration: none;
+}
+
+header a:hover {
+  color: orange;
+}
+
+header a:visited {
+  color: purple;
+}
+
+main h2 {
+  font-family: 'Anton', sans-serif;
+  font-style: italic;
+}
