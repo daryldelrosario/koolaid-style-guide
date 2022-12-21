@@ -105,6 +105,8 @@ main h2 {
 .fonts {
   margin: 0px auto;
   margin-bottom: 100px;
+  border: 1px solid black;
+  width: 40%;
 }
 
 .font-display {
