@@ -10,8 +10,8 @@ Peer Review for Website Style Guide Project via Codecademy
 
 * HTML Solution   
 
-<kbd><img src="./img/html-solution.png" alt="screenshot of html solution" style="width: 55%"></kbd>   
+<kbd><img src="./img/html-solution.png" alt="screenshot of html solution" style="width: 300px"></kbd>   
 
 * CSS Solution   
 
-<kbd><img src="./img/css-solution.png" alt="screenshot of css solution" style="width: 55%"></kbd>
+<kbd><img src="./img/css-solution.png" alt="screenshot of css solution" style="width: 300px"></kbd>
