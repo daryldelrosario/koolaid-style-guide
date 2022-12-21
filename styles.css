@@ -1,5 +1,8 @@
 * {
   text-align: center;
+
+  /* For Visual Purpose: Toggle Below*/
+  /* border: 1px red solid; */
 }
 
 html {
@@ -96,4 +99,25 @@ header a:visited {
 main h2 {
   font-family: 'Anton', sans-serif;
   font-style: italic;
+}
+
+/* Solution Option CSS */
+.fonts {
+  margin: 0px auto;
+  margin-bottom: 100px;
+}
+
+.font-display {
+  display: inline-block;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 40px;
+  border-spacing: 50px;
+  background-color: brown;
+  margin: 15px;
+  line-height: 52px;
+}
+
+.anton {
+  font-family: 'Anton'
 }
