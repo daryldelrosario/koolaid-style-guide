@@ -106,7 +106,7 @@ main h2 {
   margin: 0px auto;
   margin-bottom: 100px;
   border: 1px solid black;
-  width: 40%;
+  width: 80%;
 }
 
 .font-display {
@@ -118,6 +118,7 @@ main h2 {
   background-color: brown;
   margin: 15px;
   line-height: 52px;
+  width: 20%;
 }
 
 .anton {
